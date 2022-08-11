@@ -3,4 +3,4 @@ From the [Skillfactory Data Science course](https://srillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0 - компьютер угадывает произвольно заданное число](https://github.com/tvk2772/IDE/project0)
+* [Проект 0 - компьютер угадывает произвольно заданное число](https://github.com/tvk2772/IDE/project_0)
